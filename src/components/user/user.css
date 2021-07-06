@@ -1,0 +1,52 @@
+.update-user-container {
+    padding: 3em 20em 0em 20em;
+}
+
+.fields-container {
+    display: flex;
+}
+
+.name-container {
+    width: 60%;
+}
+
+.name-container span {
+    color: #333333;
+}
+
+.role-container {
+    width: 40%;
+}
+
+.input-text {
+    width: 232px;
+    height: 15px;
+    margin: 8px 0;
+    letter-spacing: -0.08px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.checked-item {
+    color: #0070c9;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1350px) {
+    .update-user-container {
+        padding: 0 !important;
+    }
+}

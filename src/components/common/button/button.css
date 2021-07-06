@@ -1,0 +1,30 @@
+.delete-button {
+    padding: 7px 17px 6px;
+    border: solid 1px #ee0000;
+    color: #ee0000;
+}
+
+.reset-button {
+    padding: 7px 17px 6px;
+    border: solid 1px #1b8517;
+    color: #1b8517;
+}
+
+.btn {
+    background-color: transparent;
+    margin: 12px 0 15px 220px;
+    border-radius: 4px;
+    width: 76px;
+    height: 28px;
+    cursor: pointer;
+}
+
+.save-button {
+    color: #ffffff;
+}
+
+.save-button {
+    background-color: #0070c9;
+    color: #ffffff;
+    border-color: transparent;
+}

@@ -1,0 +1,17 @@
+.container-header {
+    text-align: right;
+    width: 100%;
+    margin-top: 28px;
+}
+
+.header {
+    display: flex;
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 13px;
+}
+
+.title {
+    float: left;
+    width: 40%;
+    color: #000000;
+}

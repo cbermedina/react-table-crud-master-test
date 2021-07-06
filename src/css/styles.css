@@ -1,0 +1,10 @@
+.container {
+    margin: 1rem;
+    padding: 2em 6em 0 6em;
+}
+
+@media screen and (max-width: 600px) {
+    .update-user-container {
+        padding: 0 !important;
+    }
+}
